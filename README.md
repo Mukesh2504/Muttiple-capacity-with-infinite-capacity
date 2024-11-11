@@ -1,3 +1,5 @@
+# Date:19.10.2024
+
 # Ex-05
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
